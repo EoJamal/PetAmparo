@@ -10,6 +10,10 @@ namespace PetAmparo.Infra.Data.Context
 
         public DbSet<Usuario> UsuarioSet { get; set; }
 
+        public DbSet<Ong> OngSet { get; set; }
+
+        public DbSet<Publicacao> PublicacaoSet { get; set; }
+
         public DbSet<Adocao> AdocaoSet { get; set;}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

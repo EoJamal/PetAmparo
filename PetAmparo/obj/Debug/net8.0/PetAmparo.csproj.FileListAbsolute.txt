@@ -108,3 +108,13 @@ C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dl
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

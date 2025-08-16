@@ -16,9 +16,9 @@
 
         public string Descricao { get; set; } = string.Empty;
 
-        public string Cidade { get; set; }
+        public string Cidade { get; set; } = string.Empty;
 
-        public string Endereco { get; set; }
+        public string Endereco { get; set; } = string.Empty;
 
         public DateTime DataCadastro { get; set; }
 

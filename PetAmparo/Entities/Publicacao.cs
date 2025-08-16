@@ -4,12 +4,12 @@
     {
         public Guid Id { get; set; }
 
-        public string Titulo { get; set; }
+        public string Titulo { get; set; } = string.Empty;
 
-        public Guid UsuarioId { get; set; }
+        public Guid UsuarioId { get; set; } 
 
-        public string Descricao { get; set; }
+        public string Descricao { get; set; } = string.Empty;
 
-        public string Imagem { get; set; }
+        public string Imagem { get; set; } = string.Empty;
     }
 }
